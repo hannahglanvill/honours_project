@@ -7,10 +7,10 @@ Global warming affects climate at both a macro and micro scale, although researc
 
 References: 
 BAKKEN, G. S. 1976. A heat transfer analysis of animals: unifying concepts and the application of metabolism chamber data to field ecology. Journal of theoretical Biology, 60, 337-384.
-BAKKEN, G. S. 1980. The use of standard operative temperature in the study of the thermal energetics of birds. Physiological Zoology, 53, 108-119.
-KEARNEY, M., SHINE, R. & PORTER, W. P. 2009. The potential for behavioral thermoregulation to buffer “cold-blooded” animals against climate warming. Proceedings of the National Academy of Sciences, 106, 3835-3840.
-KEARNEY, M. R., BRISCOE, N. J., MATHEWSON, P. D. & PORTER, W. P. 2021. NicheMapR–an R package for biophysical modelling: the endotherm model. Ecography, 44, 1595-1605.
-KEARNEY, M. R., GILLINGHAM, P. K., BRAMER, I., DUFFY, J. P. & MACLEAN, I. M. 2020. A method for computing hourly, historical, terrain‐corrected microclimate anywhere on earth. Methods in Ecology and Evolution, 11, 38-43.
-KEARNEY, M. R. & PORTER, W. P. 2017. NicheMapR–an R package for biophysical modelling: the microclimate model. Ecography, 40, 664-674.
-KEARNEY, M. R. & PORTER, W. P. 2020. NicheMapR–an R package for biophysical modelling: the ectotherm and dynamic energy budget models. Ecography, 43, 85-96.
-VAN DE VEN, T. M., MCKECHNIE, A. E. & CUNNINGHAM, S. 2019. The costs of keeping cool: behavioural trade-offs between foraging and thermoregulation are associated with significant mass losses in an arid-zone bird. Oecologia, 191, 205-215.
+  BAKKEN, G. S. 1980. The use of standard operative temperature in the study of the thermal energetics of birds. Physiological Zoology, 53, 108-119.
+  KEARNEY, M., SHINE, R. & PORTER, W. P. 2009. The potential for behavioral thermoregulation to buffer “cold-blooded” animals against climate warming. Proceedings of the National Academy of Sciences, 106, 3835-3840.
+  KEARNEY, M. R., BRISCOE, N. J., MATHEWSON, P. D. & PORTER, W. P. 2021. NicheMapR–an R package for biophysical modelling: the endotherm model. Ecography, 44, 1595-1605.
+  KEARNEY, M. R., GILLINGHAM, P. K., BRAMER, I., DUFFY, J. P. & MACLEAN, I. M. 2020. A method for computing hourly, historical, terrain‐corrected microclimate anywhere on earth. Methods in Ecology and Evolution, 11, 38-43.
+  KEARNEY, M. R. & PORTER, W. P. 2017. NicheMapR–an R package for biophysical modelling: the microclimate model. Ecography, 40, 664-674.
+  KEARNEY, M. R. & PORTER, W. P. 2020. NicheMapR–an R package for biophysical modelling: the ectotherm and dynamic energy budget models. Ecography, 43, 85-96.
+  VAN DE VEN, T. M., MCKECHNIE, A. E. & CUNNINGHAM, S. 2019. The costs of keeping cool: behavioural trade-offs between foraging and thermoregulation are associated with significant mass losses in an arid-zone bird. Oecologia, 191, 205-215.
